@@ -1,0 +1,39 @@
+{
+    "Marcas":[
+        {
+            "id": 1,
+            "marca": "Beauty Creations",
+            "logo": "../img/Marcas/BeautyCreationsMarca.jpg"
+        },
+
+        {
+            "id": 2,
+            "marca": "Rude Cosmetics",
+            "logo": "../img/Marcas/RudeCosmeticsMarca.jpg"
+        },
+
+        {
+            "id": 3,
+            "marca": "Koi Cosmetics",
+            "logo": "../img/Marcas/KoiCosmeticspng.jpg"
+        },
+
+        {
+            "id": 4,
+            "marca": "Rare Beauty",
+            "logo": "../img/Marcas/Rare Beauty.jpg"
+        },        
+        
+        {
+            "id": 5,
+            "marca": "Natura",
+            "logo": "../img/Marcas/NaturaMarca.jpg"
+        },
+
+        {
+            "id": 6,
+            "marca": "Fruna Cosmetic",
+            "logo": "../img/Marcas/FrunaCosmeticsMarca.jpg"
+        }
+    ]
+}
